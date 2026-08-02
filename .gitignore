@@ -1,6 +1,18 @@
+# SolidWorks temporary files
 *.sldwrk~
 *.swp
 *.bak
 *.tmp
+
+# Windows
 Thumbs.db
+Desktop.ini
+
+# macOS
 .DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log

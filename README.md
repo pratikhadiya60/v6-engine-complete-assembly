@@ -120,12 +120,6 @@ Additional documentation for different parts of the project is available inside 
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## Author
 
 **Pratik Hadiya**

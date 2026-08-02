@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+
+title: "Digital V6 Engine Replica"
+
+message: "If you use this project for academic or educational purposes, please cite it using the metadata below."
+
+type: software
+
+authors:
+  - family-names: Hadiya
+    given-names: Pratik
+
+repository-code: "https://github.com/pratikhadiya60/digital-v6-engine-replica"
+
+license: MIT
+
+abstract: >
+  A SolidWorks-based digital replica of a V6 internal combustion engine
+  featuring modular assemblies, engineering drawings, and SolidWorks
+  Visualize renders.
+
+keywords:
+  - SolidWorks
+  - CAD
+  - Mechanical Design
+  - V6 Engine
+  - Engineering Drawings

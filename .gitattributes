@@ -1,8 +1,21 @@
+# SolidWorks files
 *.SLDPRT binary
 *.SLDASM binary
 *.SLDDRW binary
+
+# CAD exports
 *.STEP binary
-*.stp binary
-*.x_t binary
-*.x_b binary
+*.STP binary
+*.IGS binary
+*.IGES binary
+*.X_T binary
+*.X_B binary
 *.STL binary
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# PDFs
+*.pdf binarys
